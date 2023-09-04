@@ -1,0 +1,21 @@
+######################################################################
+# Generated with fetch    - https://chililinux.com
+# Generated with alienpkg - https://chililinux.com
+######################################################################
+maintainer='Vilmar Catafesta <vcatafesta@gmail.com>'
+pkgname='mkinitramfs'
+version='20220427-1'
+build='1'
+pkgver='20220427'
+pkgrel='1'
+license='GPL2'
+lfs_version='11.2'
+lfs_init='SYSV'
+arch='x86_64'
+distro='mazonos'
+desc='Modular initramfs image creation utility'
+pkgdesc='Modular initramfs image creation utility'
+size='16675'
+url='https://www.linuxfromscratch.org/lfs/view/stable/'
+source=('')
+dep=('')
